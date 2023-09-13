@@ -8,3 +8,12 @@ Iris Project:
   
 Colour Project:
   Computer vision project that detects the colour (red, green, or blue) of an object held in front of the camera. Completed in August 2022.
+
+Sleep Disorder Project:
+  Classifies people as having a sleep disorder or not based on a series of features using classification.
+
+Medical Cost Project:
+  Predicts the cost of medical services based on a series of features of a person using linear regression.
+
+Space Titanic:
+  Predicts whether passengers on a space Titanic ship will be transported or not using a Random Forest model.
