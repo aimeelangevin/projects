@@ -3,7 +3,7 @@ Here are the projects I have worked on independently. These are the first projec
 Salary Project:
   Predicts a person's salary based on their years of experience using a linear regression model. The data was provided by Kaggle. Completed in August 2022.
   
-Irish Project:
+Iris Project:
   Classification project on 50 samples from species of Iris flowers. The data was provided by Kaggle. Completed in August 2022.
   
 Colour Project:
